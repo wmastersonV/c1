@@ -1,0 +1,9 @@
+pandas_profiling
+pandas
+numpy
+sklearn
+scipy
+matplotlib
+imbalanced-learn
+pickle
+stats
